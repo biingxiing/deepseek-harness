@@ -1,0 +1,27 @@
+local-plugin-demo/README.md
+  s_b20e9bfa96a652::t_84857164f39275 1-70
+local-plugin-demo/package.json
+  s_b20e9bfa96a652::t_49e56d99cf9dd0 1-8
+local-plugin-demo/src/index.mjs
+  s_b20e9bfa96a652::t_61133c68fb7f65 1-340
+local-plugin-demo/verify.mts
+  s_b20e9bfa96a652::t_e8f8fda3693bdf 1-88
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "e0a3d8f161e54568a77b269b4055becdbef2a235",
+  "prompts": {},
+  "sessions": {
+    "s_b20e9bfa96a652": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "10b4238d-4034-4de4-bb0e-1208f988ddee",
+        "model": "unknown"
+      },
+      "human_author": "biingxiing <xiingbiing@163.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
