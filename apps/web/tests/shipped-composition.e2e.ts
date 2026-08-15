@@ -117,6 +117,11 @@ it('assembles the shipped Web catalog, file-reference guidance, and confined acc
   })
   try {
     expect(scaffold.ctx.commands.list(commandHandle.agent)).toContainEqual({
+      name: 'add-plugin',
+      description: 'load a trusted local Cordis Host plugin from this workspace',
+      input: { hint: '<directory>' },
+    })
+    expect(scaffold.ctx.commands.list(commandHandle.agent)).toContainEqual({
       name: 'feedback',
       description: 'record feedback about this session',
       input: { hint: '<text>' },

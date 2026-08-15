@@ -250,6 +250,9 @@
     - id: commands
       name: '@deepseek-ai/dsh-commands'
 
+    - id: command-add-plugin
+      name: '@deepseek-ai/dsh-command-add-plugin'
+
     - id: command-feedback
       name: '@deepseek-ai/dsh-command-feedback'
 

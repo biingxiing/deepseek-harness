@@ -1,0 +1,8 @@
+{
+  "name": "dsh-plugin-bookmarks",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Session bookmarks: a runtime-loadable demo plugin for /add-plugin",
+  "type": "module",
+  "main": "src/index.mjs"
+}
